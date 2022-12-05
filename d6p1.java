@@ -130,6 +130,7 @@ class d6p1{
         }
         
         System.out.println(res.size());
+        sc.close();
      
         
         

@@ -106,6 +106,7 @@ class d6p2{
         
         
         System.out.println(Arrays.toString(res));
+        sc.close();
         
         
         

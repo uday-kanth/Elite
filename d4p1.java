@@ -177,5 +177,6 @@ class d4p1
         }
         if(b)System.out.println("Win");
         else System.out.println("Lost");
+        sc.close();
     }
 }
