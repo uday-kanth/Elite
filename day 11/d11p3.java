@@ -97,6 +97,7 @@ public static void main (String[] args) {
         s.add(arr[i+k-1]);
         
         System.out.print(s.size()+" ");
+        sc.close();
         
         
     }

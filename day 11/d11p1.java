@@ -74,6 +74,7 @@ class d11p1{
             }
             
             System.out.print(max+" ");
+            sc.close();
             
             
             

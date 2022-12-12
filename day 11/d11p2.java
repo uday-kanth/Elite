@@ -52,6 +52,7 @@ class d11p2{
             System.exit(0);
         }
         System.out.println(func(m,n,p));
+        sc.close();
     }
     public static boolean func(int m,int n,int p) {
         int a=gcd(m,n);
