@@ -61,7 +61,8 @@ Swap s[0] and s[1], s = "bde"
 
  */
 import java.util.*;
-class Solution{
+class d9p2
+{
     static void union(int a,int b,int[] par,String s){
         a=find(a,par);
         b=find(b,par);
