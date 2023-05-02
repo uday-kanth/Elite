@@ -1,3 +1,4 @@
+
 /*Mansood Ali participated in a treasure-hunt conatins N boxes in it.
 Each box is numbered from 0,1,2,3,...,N-1. 
 All the boxes are intially locked with the passcodes, except Box-0.
